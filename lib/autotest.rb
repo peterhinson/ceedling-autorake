@@ -26,7 +26,7 @@ class AutoTest
     end
 
     def runTests
-        system "rake test:all"
+        system "rake test:delta"
     end
 
     def makePaths()
