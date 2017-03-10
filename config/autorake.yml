@@ -6,3 +6,5 @@
         - include
         - lib
         - common
+    :delay_time: 4
+    :test_command: delta
